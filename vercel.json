@@ -1,0 +1,12 @@
+{
+    "routes": [
+      {
+        "src": "/ZltTopup.apk",
+        "dest": "https://github.com/zlantobi8/onboard/releases/download/v1.0/ZltTopup.apk",
+        "headers": {
+          "content-type": "application/vnd.android.package-archive"
+        }
+      }
+    ]
+  }
+  
